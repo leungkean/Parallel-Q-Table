@@ -1,0 +1,35 @@
+1 CPU
+Episode: 100000, Q-Table Size: 201914
+Training time: 8924.662913322449 seconds
+Test Accuracy: 0.6703125
+Test Feature Length: 15.8453125
+
+2 CPUs
+Episode: 90000, Q-Table Size: 210061
+Training time: 10522.630375862122 seconds
+Test Accuracy: 0.659375
+Test Feature Length: 15.9734375
+
+4 CPUs
+Episode: 60000, Q-Table Size: 178942
+Training time: 6465.515100240707 seconds
+Test Accuracy: 0.6796875
+Test Feature Length: 9.3796875
+
+10 CPUs
+Episode: 45000, Q-Table Size: 145560
+Training time: 5680.357272148132 seconds
+Test Accuracy: 0.65625
+Test Feature Length: 11.621875
+
+20 CPUs
+Episode: 30000, Q-Table Size: 106716
+Training time: 3914.1790568828583 seconds
+Test Accuracy: 0.6578125
+Test Feature Length: 10.5078125
+
+40 CPUs
+Episode: 20000, Q-Table Size: 78667
+Training time: 4941.82651758194 seconds
+Test Accuracy: 0.665625
+Test Feature Length: 7.8234375
